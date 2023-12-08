@@ -11,7 +11,7 @@
         PrintNumbersInRange(m, n);
     
 
-    static void PrintNumbersInRange(int m, int n)
+    void PrintNumbersInRange(int m, int n)
     {
         if (m <= n)
         {
